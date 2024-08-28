@@ -1,0 +1,14 @@
+body {
+        background-color: darkslategray;
+        color: gray;
+}
+    p{
+
+        font-size:24px ;
+        color:bisque;
+        font-weight: bold;
+    }
+       
+    .texto{
+            background-color: blueviolet;
+    }
